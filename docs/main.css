@@ -1,0 +1,12 @@
+body{
+    background: #333333;
+}
+.container{
+    background: #999999
+}
+.card{
+    padding: 0%;
+}
+.right-text{
+    text-align: right;
+}
