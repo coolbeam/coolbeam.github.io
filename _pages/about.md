@@ -30,6 +30,23 @@ My research interest includes computer vision and computer graphics.
 
 # Publications 
 
+**2019**
+
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2019_csvt/2019_csvt.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Weakly Supervised Semantic Segmentation by a Class-Level Multiple Group Cosegmentation and Foreground Fusion Strategy**
+
+*IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2019*
+
+Fanman Meng, **Kunming Luo**, Hongliang Li, Qingbo Wu, Xiaolong Xu
+          
+[Paper](collections/2019_csvt/2019_csvt.pdf) \| Code \| [BibTex](collections/2019_csvt/2019_csvt.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
 **2018**
 
 <!-- ######################################################### -->
