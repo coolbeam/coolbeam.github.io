@@ -30,6 +30,84 @@ My research interest includes computer vision and computer graphics.
 
 # Publications 
 
+**2021**
+
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2021/GyroFlow.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**GyroFlow: Gyroscope-Guided Unsupervised Optical Flow Learning**
+
+*International Conference on Computer Vision (**ICCV**), 2021*
+
+Haipeng Li, **Kunming Luo**, Shuaicheng Liu
+          
+[Paper](collections/2021/GyroFlow.pdf) \| [Code](https://github.com/MegEngine/GyroFlow) \| [BibTex](collections/2021/GyroFlow.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2021/asflow.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**ASFlow: Unsupervised Optical Flow Learning with Adaptive Pyramid Sampling**
+
+*IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2021*
+
+Shuaicheng Liu, **Kunming Luo**, Ao Luo, Chuan Wang, Fanman Meng, Bing Zeng
+          
+[Paper](collections/2021/asflow.pdf) \| Code \| [BibTex](collections/2021/asflow.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2021/OIFlow.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**OIFlow: Occlusion-Inpainting Optical Flow Estimation by Unsupervised Learning**
+
+*IEEE Transactions on Image Processing (**TIP**), 2021*
+
+Shuaicheng Liu, **Kunming Luo**, Nianjin Ye, Chuan Wang, Jue Wang, Bing Zeng
+          
+[Paper](collections/2021/OIFlow.pdf) \| Code \| [BibTex](collections/2021/OIFlow.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2021/Scene_Text_Segmentation.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Semi-supervised Pixel-level Scene Text Segmentation by Mutually Guided Network**
+
+*IEEE Transactions on Image Processing (**TIP**), 2021*
+
+Chuan Wang, Shan Zhao, Li Zhu, **Kunming Luo**, Yanwei Guo, Jue Wang, Shuaicheng Liu
+          
+[Paper](collections/2021/Scene_Text_Segmentation.pdf) \| Code \| [BibTex](collections/2021/Scene_Text_Segmentation.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2021/upflow.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**UPFlow: Upsampling Pyramid for Unsupervised Optical Flow Learning**
+
+*IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021*
+
+**Kunming Luo**, Chuan Wang, Shuaicheng Liu, Haoqiang Fan, Jue Wang, Jian Sun
+          
+[Paper](collections/2021/upflow.pdf) \| [Code](https://github.com/coolbeam/UPFlow_pytorch) \| [BibTex](collections/2021/upflow.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
+
 **2019**
 
 <!-- ######################################################### -->
