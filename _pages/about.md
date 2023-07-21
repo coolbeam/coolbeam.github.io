@@ -18,20 +18,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-I received my Ph.D. degree at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn), supervised by [Prof. Guanghui Liu](https://www.researchgate.net/profile/Guanghui-Liu-7) and [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/) in 2022, and received my Bachelor degree in [China University of Petroleum (UPC)](https://www.upc.edu.cn) in 2016. I visited the [Computational Health Informatics (CHI) Lab](https://eng.ox.ac.uk/chi/), University of Oxford in 2019.
-
-I joined the group of [Prof. Shengping Zhang](https://scholar.google.com.hk/citations?user=hMNsT8sAAAAJ) at [School of Computer Science and Technology](http://cst.hitwh.edu.cn), [Harbin Institute of Technology, Weihai](https://www.hitwh.edu.cn) in 2023.
-
+I received my B.E. and M.S. degrees at the [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn), supervised by [Prof. Fanman Meng](https://scholar.google.com.hk/citations?hl=zh-CN&user=96hJnFoAAAAJ) in 2016 and 2019. 
+From 2019 to 2023, I worked as a research assistant of Megvii Technology Chengdu, supervised by [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/).
+Now I am a PhD student in the [Hong Kong University of Science and Technology(HKUST)](https://hkust.edu.hk/), supervised by [Prof. Ping Tan](https://scholar.google.com/citations?user=XhyKVFMAAAAJ&hl=zh-CN).
 My research interest includes computer vision and computer graphics.
 
 
 # News
 - *2023.07*: &nbsp; Two papers are accepted by ICCV 2023. Congratulations to my collaborators.
-- *2023.07*: &nbsp; One paper is accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
-- *2022.06*: &nbsp; One paper is accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
-- *2021.10*: &nbsp; I participated in the Doctor Symposium of ACMMM 2021.
-- *2021.10*: &nbsp; One paper is accepted by IEEE Transactions on Image Processing (TIP).
-- *2021.06*: &nbsp; One paper is accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
 
 
 # Publications 
@@ -263,25 +257,15 @@ Zhiming Gao, Qian Zhang, **Ru Li**, Bao-Di Liu, Yanjing Wang
 </div>
 </div>
 
-# Education 
-- *2018.09 - 2022.12*, Ph.D., [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn)
-- *2016.09 - 2018.06*, M.Sc., [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn)
-- *2012.09 - 2016.06*, B.E., [China University of Petroleum (UPC)](https://www.upc.edu.cn)
-- *2019.07 - 2019.10*, visiting student, [Computational Health Informatics (CHI) Lab, University of Oxford](https://eng.ox.ac.uk/chi/)
+# Education
+- *2016.09 - 2019.06*, M.Sc., [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn)
+- *2012.09 - 2016.06*, B.E., [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn)
+
 
 # Experience
-- *2023.03-present*, [Harbin Institute of Technology, Weihai](https://www.hitwh.edu.cn)
-- *2018.03-2022.12*, Intern, Megvii Research
+- *2019.03-2023.02*, Research Assistant, Megvii Research
+- *2018.03-2019.07*, Intern, Megvii Research
 
 # Academic Services
-- **Journals:** Signal Processing Letters (SPL); Computer Graphics Fourm (CGF)
-- **Conferences:** AAAI; Pacific Graphics (PG); International Conference on Intelligent Robots and Systems (IROS)
-
-# Projects
-**2018.09-2018.12, Driver Monitor System (DMS)**
-- Design a light-weighted end-to-end network running on an onboard chip to detect smoking, phoning, and drinking in driving.
-<div>
-       <video src='collections/DMS/DMS_smoke_demo1.mp4' controls="controls" width="30%" height="200px"></video>
-       <video src='collections/DMS/DMS_smoke_demo2.mp4' controls="controls" width="30%" height="200px"></video>
-       <video src='collections/DMS/DMS_phone_demo.mp4' controls="controls" width="30%" height="200px"></video>
-</div>
+- **Journals:** TPAMI
+- **Conferences:** ICCV; Pacific Graphics (PG); International Conference on Intelligent Robots and Systems (IROS)
