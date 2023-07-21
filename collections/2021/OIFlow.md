@@ -1,9 +1,9 @@
-@ARTICLE{9477059,
+@article{liu2021oiflow,
+  title={Oiflow: Occlusion-inpainting optical flow estimation by unsupervised learning},
   author={Liu, Shuaicheng and Luo, Kunming and Ye, Nianjin and Wang, Chuan and Wang, Jue and Zeng, Bing},
-  journal={IEEE Transactions on Image Processing}, 
-  title={OIFlow: Occlusion-Inpainting Optical Flow Estimation by Unsupervised Learning}, 
-  year={2021},
+  journal={IEEE Transactions on Image Processing},
   volume={30},
-  number={},
-  pages={6420-6433},
-  doi={10.1109/TIP.2021.3093781}}
+  pages={6420--6433},
+  year={2021},
+  publisher={IEEE}
+}
