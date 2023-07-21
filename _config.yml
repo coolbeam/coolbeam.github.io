@@ -21,12 +21,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "   Kunming Luo (罗堃铭)"
-  avatar           : "images/liru.jpeg"
+  avatar           : "images/kunming.png"
   bio              : # "Hong Kong University of Science and Technology(HKUST)"
   employer         :
   pubmed           : 
-  email            : "liru@hit.edu.cn"
-  googlescholar    : "https://scholar.google.com/citations?user=4cHM8rYAAAAJ"
+  email            : "kimluo1993@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=liaSLT8AAAAJ"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -35,16 +35,16 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "liru0126"
-  location         : # "Weihai, China"
+  github           : "coolbeam"
+  location         : # "Hong Kong, China"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/166/7005.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  dblp             : "https://dblp.org/pid/213/4872.html"
+  orcid            : "https://orcid.org/orcid=0000-0002-5070-7392"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
