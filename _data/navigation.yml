@@ -15,8 +15,8 @@ main:
   - title: "Experience"
     url: "/#experience"
 
+  - title: "Talks"
+    url: "/#Talks"
+
   - title: "Academic Services"
     url: "/#academic-services"  
-  
-  - title: "Projects"
-    url: "/#projects"
