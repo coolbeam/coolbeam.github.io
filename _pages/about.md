@@ -62,6 +62,21 @@ Paper \| Code \| BibTex<strong><span class='show_paper_citations' data='3WQTKocA
 </div>
 </div>
 
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2023/icip.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**The Elliptic Energy Loss for Rotated Object Detection in Aerial Images**
+
+*IEEE Internation Conference on Image Processing (**ICIP**), 2023*
+
+Cong Zhang, **Kunming Luo**, Fanman Meng, Qingbo Wu
+
+Paper \| Code \| BibTex<strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
 **2022**
 
 <!-- ######################################################### -->
