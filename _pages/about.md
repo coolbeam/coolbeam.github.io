@@ -255,6 +255,7 @@ Fanman Meng, **Kunming Luo**, Hongliang Li, Qingbo Wu, Xiaolong Xu
 </div>
 
 # Education
+- *2023.02 - Present*, Ph.D. student, [Hong Kong University of Science and Technology(HKUST)](https://hkust.edu.hk/)
 - *2016.09 - 2019.06*, M.Sc., [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn)
 - *2012.09 - 2016.06*, B.E., [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn)
 
