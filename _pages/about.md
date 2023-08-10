@@ -56,7 +56,7 @@ Paper \| Code \| BibTex<strong><span class='show_paper_citations' data='3WQTKocA
 
 *International Conference on Computer Vision (**ICCV**), 2023*
 
-xinglong luo, **Kunming Luo**, Ao Luo, Zhengning Wang, Ping Tan, Shuaicheng Liu
+Xinglong luo, **Kunming Luo**, Ao Luo, Zhengning Wang, Ping Tan, Shuaicheng Liu
 
 Paper \| Code \| BibTex<strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
