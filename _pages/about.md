@@ -31,6 +31,20 @@ My research interest includes computer vision and computer graphics.
 # Publications 
 
 **2023**
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2023/ctrl_room.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints**
+
+*arxiv, 2023*
+
+Chuan Fang, Xiaotao Hu, **Kunming Luo**, Ping Tan
+
+[Paper](collections/2023/ctrl_room.pdf) \| Code \| [BibTex](collections/2023/ctrl_room.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
 
 <!-- ######################################################### -->
 
@@ -43,7 +57,7 @@ My research interest includes computer vision and computer graphics.
 
 Guangyang Wu, Wenyi Wang, **Kunming Luo**, Xi Liu, Qingqing Zheng, Shuaicheng Liu, Xinyang Jiang, Guangtao Zhai, Xiaohong Liu
 
-Paper \| Code \| BibTex<strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](collections/2023/accflow.pdf) \| Code \| [BibTex](collections/2023/accflow.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -58,7 +72,7 @@ Paper \| Code \| BibTex<strong><span class='show_paper_citations' data='3WQTKocA
 
 Xinglong Luo, **Kunming Luo**, Ao Luo, Zhengning Wang, Ping Tan, Shuaicheng Liu
 
-Paper \| Code \| BibTex<strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](collections/2023/event_flow.pdf) \| Code \| [BibTex](collections/2023/event_flow.md)  <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -73,7 +87,7 @@ Paper \| Code \| BibTex<strong><span class='show_paper_citations' data='3WQTKocA
 
 Cong Zhang, **Kunming Luo**, Fanman Meng, Qingbo Wu
 
-Paper \| Code \| BibTex<strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](collections/2023/icip.pdf) \| Code \| [BibTex](collections/2023/icip.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
