@@ -56,7 +56,7 @@ Chuan Fang, Xiaotao Hu, **Kunming Luo**, Ping Tan
 
 *arxiv, 2023*
 
-He, Linchao, Yan, Hongyu, Luo, Mengting, **Kunming Luo**, Wang, Wang, Du, Wenchao, Chen, Hu, Yang, Hongyu, Zhang, Yi
+Linchao He, Hongyu Yan, Mengting Luo, **Kunming Luo**, Wang Wang, Wenchao Du, Hu Chen, Hongyu Yang, Yi Zhang
 
 [Paper](collections/2023/Sparse Data Reconstruction.pdf) \| Code \| [BibTex](collections/2023/Sparse Data Reconstruction.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
