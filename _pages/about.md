@@ -31,6 +31,7 @@ My research interest includes computer vision and computer graphics.
 # Publications 
 
 **2023**
+
 <!-- ######################################################### -->
 
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2023/ctrl_room.png' alt="sym" width="100%"></div>
@@ -43,6 +44,21 @@ My research interest includes computer vision and computer graphics.
 Chuan Fang, Xiaotao Hu, **Kunming Luo**, Ping Tan
 
 [Paper](collections/2023/ctrl_room.pdf) \| Code \| [BibTex](collections/2023/ctrl_room.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2023/Sparse Data Reconstruction.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Iterative Reconstruction Based on Latent Diffusion Model for Sparse Data Reconstruction**
+
+*arxiv, 2023*
+
+He, Linchao, Yan, Hongyu, Luo, Mengting, **Kunming Luo**, Wang, Wang, Du, Wenchao, Chen, Hu, Yang, Hongyu, Zhang, Yi
+
+[Paper](collections/2023/Sparse Data Reconstruction.pdf) \| Code \| [BibTex](collections/2023/Sparse Data Reconstruction.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
