@@ -29,6 +29,21 @@ My research interest includes computer vision and computer graphics.
 
 
 # Publications 
+**2024**
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2021/GyroFlow.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**GyroFlow+: Gyroscope-Guided Unsupervised Deep Homography and Optical Flow Learning**
+
+*International Journal of Computer Vision (**IJCV**), 2024*
+
+Haipeng Li, **Kunming Luo**, Bing Zeng, Shuaicheng Liu
+
+Paper \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
 
 **2023**
 
