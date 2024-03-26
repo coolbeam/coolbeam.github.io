@@ -32,7 +32,7 @@ My research interest includes computer vision and computer graphics.
 **2024**
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2024/GenN2N_v1.mp4' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2024/GenN2N_v1.gif' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **GenN2N: Generative NeRF2NeRF Translation**
