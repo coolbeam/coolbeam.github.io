@@ -32,7 +32,7 @@ My research interest includes computer vision and computer graphics.
 **2024**
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2024/GN2N.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2024/GenN2N_v1.mp4' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **GenN2N: Generative NeRF2NeRF Translation**
@@ -41,7 +41,7 @@ My research interest includes computer vision and computer graphics.
 
 Xiangyue Liu, Han Xue, **Kunming Luo**, Ping Tan, Li Yi
           
-[Paper] \| [Code] \| [BibTex] <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper] \| [Code](https://xiangyueliu.github.io/GenN2N/) \| [BibTex] <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
