@@ -41,7 +41,7 @@ My research interest includes computer vision and computer graphics.
 
 Xiangyue Liu, Han Xue, **Kunming Luo**, Ping Tan, Li Yi
           
-[Paper] \| [Code](https://xiangyueliu.github.io/GenN2N/) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](https://arxiv.org/abs/2404.02788) \| [Code](https://xiangyueliu.github.io/GenN2N/) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
