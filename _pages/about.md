@@ -319,6 +319,7 @@ Fanman Meng, **Kunming Luo**, Hongliang Li, Qingbo Wu, Xiaolong Xu
 
 
 # Experience
+- *2023.06-2023.08*, Intern, Light Illusions
 - *2019.07-2023.02*, Research Assistant, Megvii Research
 - *2018.03-2019.07*, Intern, Megvii Research
 
@@ -327,4 +328,4 @@ Fanman Meng, **Kunming Luo**, Hongliang Li, Qingbo Wu, Xiaolong Xu
 
 # Academic Services
 - **Journals:** IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
-- **Conferences:** International Conference on Computer Vision (ICCV); Pacific Graphics (PG); International Conference on Intelligent Robots and Systems (IROS)
+- **Conferences:** Computer Vision and Pattern Recognition (CVPR); European Conference on Computer Vision (ECCV); International Conference on Computer Vision (ICCV); Pacific Graphics (PG); International Conference on Intelligent Robots and Systems (IROS)
