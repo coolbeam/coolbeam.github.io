@@ -325,6 +325,7 @@ Fanman Meng, **Kunming Luo**, Hongliang Li, Qingbo Wu, Xiaolong Xu
 
 # Talks
 -  *2022, ACCV Tutorial*, **Recent Advances in Image Alignment: From Deep Homography to Optical Flow.** [link](https://www.accv2022.org/en/TUTORIALS.html)
+- [link ppt for 5005E](https://docs.google.com/presentation/d/1Vl6k8fdHBdg7e8EWBtCjjGLhQJc_aRLv/edit#slide=id.p1)
 
 # Academic Services
 - **Journals:** IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
