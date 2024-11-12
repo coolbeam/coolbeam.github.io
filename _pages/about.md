@@ -22,7 +22,7 @@ I received my B.E. and M.S. degrees at the [University of Electronic Science and
 From 2019 to 2023, I worked as a research assistant of Megvii Technology Chengdu, supervised by [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/).
 Now I am a PhD student in the [Hong Kong University of Science and Technology(HKUST)](https://hkust.edu.hk/), supervised by [Prof. Ping Tan](https://scholar.google.com/citations?user=XhyKVFMAAAAJ&hl=zh-CN).
 My research interest includes computer vision and computer graphics.
-[PQE presentation](https://docs.google.com/presentation/d/1wgagGRm5uoEa--bUAXaxAWRgUILq_DTT/edit?usp=drive_link&ouid=103300138642819948816&rtpof=true&sd=true)
+
 
 # News
 - *2023.07*: &nbsp; Two papers are accepted by ICCV 2023. 
