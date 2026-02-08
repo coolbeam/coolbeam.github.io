@@ -24,12 +24,75 @@ Now I am a PhD student in the [Hong Kong University of Science and Technology(HK
 My research interest includes computer vision and computer graphics.
 
 
+<!--
 # News
 - *2023.07*: &nbsp; Two papers are accepted by ICCV 2023. 
-
+-->
 
 # Publications 
-**2024**
+<!-- **2026** -->
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2026/ctr3d.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**CTR3D: Cross-view Token Reduction for Dense Multi-view Generation**
+
+*Thirteenth International Conference on 3D Vision (**3DV**), 2026* <span style="color:red">**Best Paper Candidate**</span>
+
+**Kunming Luo**, Hongyu Yan, Yuan Liu, Zihao Zhang, Manyuan Zhang, Wenping Wang, Ping Tan
+
+[Paper](https://openreview.net/pdf?id=3rJQj0xZJv) \| [Code](https://github.com/HKUST-SAIL/CTR3D) \| BibTex
+</div>
+</div>
+
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2026/posemaster.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**PoseMaster: Generating 3D Characters in Arbitrary Poses from a Single Image**
+
+*arxiv, 2026*
+
+Hongyu Yan, **Kunming Luo**, Weiyu Li, Yixun Liang, Shengming Li, Jingwei Huang, Chunchao Guo, Ping Tan
+
+[Paper](https://arxiv.org/abs/2506.21076) \| Code \| BibTex
+</div>
+</div>
+
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2026/unitex.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**UniTEX: Universal High Fidelity Generative Texturing for 3D Shapes**
+
+*arxiv, 2026*
+
+Yixun Liang, **Kunming Luo**, Xiao Chen, Rui Chen, Hongyu Yan, Weiyu Li, Jiarui Liu, Ping Tan
+
+[Paper](https://arxiv.org/abs/2505.23253) \| [Code](https://github.com/lightillusions/UniTEX) \| BibTex
+</div>
+</div>
+
+<!-- **2025** -->
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2023/ctrl_room.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints**
+
+*2025 International Conference on 3D Vision (**3DV**), 2025*
+
+Chuan Fang, Xiaotao Hu, **Kunming Luo**, Ping Tan
+
+[Paper](collections/2023/ctrl_room.pdf) \| [Code](https://fangchuan.github.io/ctrl-room.github.io/) \| [BibTex](collections/2023/ctrl_room.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
+<!-- **2024** -->
 <!-- ######################################################### -->
 
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2024/GenN2N_v1.gif' alt="sym" width="100%"></div>
@@ -41,10 +104,11 @@ My research interest includes computer vision and computer graphics.
 
 Xiangyue Liu, Han Xue, **Kunming Luo**, Ping Tan, Li Yi
           
-[Paper](https://arxiv.org/abs/2404.02788) \| [Code](https://xiangyueliu.github.io/GenN2N/) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](https://arxiv.org/abs/2404.02788) \| [Code](https://xiangyueliu.github.io/GenN2N/) \| [BibTex](collections/2024/GenN2N.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
+<!--
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2021/GyroFlow.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -57,26 +121,12 @@ Haipeng Li, **Kunming Luo**, Bing Zeng, Shuaicheng Liu
 Paper \| [Code](https://github.com/MegEngine/GyroFlow) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
+-->
 
-**2023**
-
-<!-- ######################################################### -->
-
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2023/ctrl_room.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-**Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints**
-
-*arxiv, 2023*
-
-Chuan Fang, Xiaotao Hu, **Kunming Luo**, Ping Tan
-
-[Paper](collections/2023/ctrl_room.pdf) \| Code \| [BibTex](collections/2023/ctrl_room.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-</div>
-</div>
+<!-- **2023** -->
 
 <!-- ######################################################### -->
-
+<!--
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2023/Sparse Data Reconstruction.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -89,7 +139,7 @@ Linchao He, Hongyu Yan, Mengting Luo, **Kunming Luo**, Wang Wang, Wenchao Du, Hu
 [Paper](collections/2023/Sparse Data Reconstruction.pdf) \| Code \| [BibTex](collections/2023/Sparse Data Reconstruction.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
-
+-->
 <!-- ######################################################### -->
 
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2023/accflow.png' alt="sym" width="100%"></div>
@@ -121,7 +171,7 @@ Xinglong Luo, **Kunming Luo**, Ao Luo, Zhengning Wang, Ping Tan, Shuaicheng Liu
 </div>
 
 <!-- ######################################################### -->
-
+<!--
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2023/icip.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -134,8 +184,9 @@ Cong Zhang, **Kunming Luo**, Fanman Meng, Qingbo Wu
 [Paper](collections/2023/icip.pdf) \| Code \| [BibTex](collections/2023/icip.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
+-->
 
-**2022**
+<!-- **2022** -->
 
 <!-- ######################################################### -->
 
@@ -153,7 +204,7 @@ Yunhui Han, **Kunming Luo**, Ao Luo, Jiangyu Liu, Haoqiang Fan, Guiming Luo, Shu
 </div>
 
 <!-- ######################################################### -->
-
+<!--
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2022/CAhomo.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -166,9 +217,9 @@ Shuaicheng Liu, Nianjin Ye, Chuan Wang, Jirong Zhang, Lanpeng Jia, **Kunming Luo
 [Paper](collections/2022/CAhomo.pdf) \| [Code](https://github.com/JirongZhang/DeepHomography) \| [BibTex](collections/2022/CAhomo.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
-
+-->
 <!-- ######################################################### -->
-
+<!--
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2022/agflow.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -181,9 +232,9 @@ Ao Luo, Fan Fang, **Kunming Luo**, Xin Li, Haoqiang Fan, Shuaicheng Liu
 [Paper](collections/2022/agflow.pdf) \| [Code](https://github.com/megvii-research/AGFlow) \| [BibTex](collections/2022/agflow.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
+-->
 
-
-**2021**
+<!-- **2021** -->
 
 <!-- ######################################################### -->
 
@@ -201,7 +252,7 @@ Haipeng Li, **Kunming Luo**, Shuaicheng Liu
 </div>
 
 <!-- ######################################################### -->
-
+<!--
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2021/asflow.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -214,7 +265,7 @@ Shuaicheng Liu, **Kunming Luo**, Ao Luo, Chuan Wang, Fanman Meng, Bing Zeng
 [Paper](collections/2021/asflow.pdf) \| Code \| [BibTex](collections/2021/asflow.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
-
+-->
 <!-- ######################################################### -->
 
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2021/OIFlow.png' alt="sym" width="100%"></div>
@@ -231,7 +282,7 @@ Shuaicheng Liu, **Kunming Luo**, Nianjin Ye, Chuan Wang, Jue Wang, Bing Zeng
 </div>
 
 <!-- ######################################################### -->
-
+<!--
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2021/Scene_Text_Segmentation.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -244,7 +295,7 @@ Chuan Wang, Shan Zhao, Li Zhu, **Kunming Luo**, Yanwei Guo, Jue Wang, Shuaicheng
 [Paper](collections/2021/Scene_Text_Segmentation.pdf) \| Code \| [BibTex](collections/2021/Scene_Text_Segmentation.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
-
+-->
 <!-- ######################################################### -->
 
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2021/upflow.png' alt="sym" width="100%"></div>
@@ -260,8 +311,7 @@ Chuan Wang, Shan Zhao, Li Zhu, **Kunming Luo**, Yanwei Guo, Jue Wang, Shuaicheng
 </div>
 </div>
 
-
-**2019**
+<!-- **2019** -->
 
 <!-- ######################################################### -->
 
@@ -278,10 +328,10 @@ Fanman Meng, **Kunming Luo**, Hongliang Li, Qingbo Wu, Xiaolong Xu
 </div>
 </div>
 
-**2018**
+<!-- **2018** -->
 
 <!-- ######################################################### -->
-
+<!--
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2018_vcip/2018_vcip.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -294,11 +344,11 @@ Fanman Meng, **Kunming Luo**, Hongliang Li, Qingbo Wu, Xiaolong Xu
 [Paper](collections/2018_vcip/2018_vcip.pdf) \| Code \| [BibTex](collections/2018_vcip/2018_vcip.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
-
-**2017**
+-->
+<!-- **2017** -->
 
 <!-- ######################################################### -->
-
+<!--
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2017_ISPACS/2017_ispacs.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -311,6 +361,7 @@ Fanman Meng, **Kunming Luo**, Hongliang Li, Qingbo Wu, Xiaolong Xu
 [Paper](collections/2017_ISPACS/2017_ISPACS.pdf) \| Code \| [BibTex](collections/2017_ISPACS/2017_ispacs.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
+-->
 
 # Education
 - *2023.02 - Present*, Ph.D. student, [Hong Kong University of Science and Technology(HKUST)](https://hkust.edu.hk/)

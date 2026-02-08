@@ -1,6 +1,9 @@
-@article{fang2023ctrl,
-  title={Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints},
-  author={Fang, Chuan and Hu, Xiaotao and Luo, Kunming and Tan, Ping},
-  journal={arXiv preprint arXiv:2310.03602},
-  year={2023}
+@article{Ctrl-Room,
+    title         = {Ctrl-room: Controllable text-to-3d room meshes generation with layout constraints},
+    author        = {Chuan Fang, Yuan Dong, Kunming Luo, Xiaotao Hu, Rakesh Shrestha, Ping Tan},
+    journal       = {2025 International Conference on 3D Vision (3DV).},
+    year          = {2025},
+    eprint        = {2025: 692-701.},
+    archivePrefix = {IEEE},
+    primaryClass  = {cs.CV}
 }
