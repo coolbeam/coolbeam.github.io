@@ -53,7 +53,7 @@ My research interest includes computer vision and computer graphics.
 
 **PoseMaster: Generating 3D Characters in Arbitrary Poses from a Single Image**
 
-*arxiv, 2026*
+*IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026*
 
 Hongyu Yan, **Kunming Luo**, Weiyu Li, Yixun Liang, Shengming Li, Jingwei Huang, Chunchao Guo, Ping Tan
 
@@ -68,7 +68,7 @@ Hongyu Yan, **Kunming Luo**, Weiyu Li, Yixun Liang, Shengming Li, Jingwei Huang,
 
 **UniTEX: Universal High Fidelity Generative Texturing for 3D Shapes**
 
-*arxiv, 2026*
+*IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026*
 
 Yixun Liang, **Kunming Luo**, Xiao Chen, Rui Chen, Hongyu Yan, Weiyu Li, Jiarui Liu, Ping Tan
 
