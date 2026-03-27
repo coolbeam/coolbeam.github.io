@@ -76,6 +76,21 @@ Yixun Liang, **Kunming Luo**, Xiao Chen, Rui Chen, Hongyu Yan, Weiyu Li, Jiarui 
 </div>
 </div>
 
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2026/AutoWeather4D.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**AutoWeather4D: Autonomous Driving Video Weather Conversion via G-Buffer Dual-Pass Editing**
+
+*under review, 2026*
+
+Tianyu Liu, Weitao Xiong, **Kunming Luo**, Manyuan Zhang, Peng Li, Yuan Liu, Ping Tan
+
+Paper \| [Code](https://lty2226262.github.io/autoweather4d/) \| BibTex
+</div>
+</div>
+
 <!-- **2025** -->
 <!-- ######################################################### -->
 
