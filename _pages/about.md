@@ -55,7 +55,7 @@ My research interest includes computer vision and computer graphics.
 
 *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026*
 
-Hongyu Yan, **Kunming Luo**, Weiyu Li, Yixun Liang, Shengming Li, Jingwei Huang, Chunchao Guo, Ping Tan
+Hongyu Yan\*, **Kunming Luo**\*, Weiyu Li, Yixun Liang, Shengming Li, Jingwei Huang, Chunchao Guo, Ping Tan
 
 [Paper](https://arxiv.org/abs/2506.21076) \| Code \| BibTex
 </div>
@@ -70,7 +70,7 @@ Hongyu Yan, **Kunming Luo**, Weiyu Li, Yixun Liang, Shengming Li, Jingwei Huang,
 
 *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026*
 
-Yixun Liang, **Kunming Luo**, Xiao Chen, Rui Chen, Hongyu Yan, Weiyu Li, Jiarui Liu, Ping Tan
+Yixun Liang\*, **Kunming Luo**\*, Xiao Chen, Rui Chen, Hongyu Yan, Weiyu Li, Jiarui Liu, Ping Tan
 
 [Paper](https://arxiv.org/abs/2505.23253) \| [Code](https://github.com/lightillusions/UniTEX) \| BibTex
 </div>
@@ -92,6 +92,21 @@ Paper \| [Code](https://lty2226262.github.io/autoweather4d/) \| BibTex
 </div>
 
 <!-- **2025** -->
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2025/symm.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**SymmCompletion: High-Fidelity and High-Consistency Point Cloud Completion with Symmetry Guidance**
+
+*Thirty-Ninth AAAI Conference on Artificial Intelligence (**AAAI**), 2025* <span style="color:red">**Oral presentation**</span>
+
+Hongyu Yan, Zijun Li, **Kunming Luo**, Li Lu, Ping Tan
+
+[Paper](https://arxiv.org/pdf/2503.18007) \| [Code](https://github.com/HKUST-SAIL/SymmCompletion) \| [BibTex](collections/2025/symm.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
 <!-- ######################################################### -->
 
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2023/ctrl_room.png' alt="sym" width="100%"></div>
@@ -164,7 +179,7 @@ Linchao He, Hongyu Yan, Mengting Luo, **Kunming Luo**, Wang Wang, Wenchao Du, Hu
 
 *International Conference on Computer Vision (**ICCV**), 2023*
 
-Guangyang Wu, Wenyi Wang, **Kunming Luo**, Xi Liu, Qingqing Zheng, Shuaicheng Liu, Xinyang Jiang, Guangtao Zhai, Xiaohong Liu
+Guangyang Wu\*, Wenyi Wang, **Kunming Luo**\*, Xi Liu, Qingqing Zheng, Shuaicheng Liu, Xinyang Jiang, Guangtao Zhai, Xiaohong Liu
 
 [Paper](collections/2023/accflow.pdf) \| Code \| [BibTex](collections/2023/accflow.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
