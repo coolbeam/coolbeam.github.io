@@ -40,7 +40,7 @@ My research interest includes computer vision and computer graphics.
 
 *Thirteenth International Conference on 3D Vision (**3DV**), 2026* <span style="color:red">**Best Paper Candidate**</span>
 
-**Kunming Luo**, Hongyu Yan, Yuan Liu, Zihao Zhang, Manyuan Zhang, Wenping Wang, Ping Tan
+**Kunming Luo**\*, Hongyu Yan\*, Yuan Liu, Zihao Zhang, Manyuan Zhang, Wenping Wang, Ping Tan
 
 [Paper](https://openreview.net/pdf?id=3rJQj0xZJv) \| [Code](https://github.com/HKUST-SAIL/CTR3D) \| BibTex
 </div>
