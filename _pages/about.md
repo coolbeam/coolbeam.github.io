@@ -400,7 +400,6 @@ Fanman Meng, **Kunming Luo**, Hongliang Li, Qingbo Wu, Xiaolong Xu
 
 
 # Experience
-- *2023.06-2023.08*, Intern, Light Illusions
 - *2019.07-2023.02*, Research Assistant, Megvii Research
 - *2018.03-2019.07*, Intern, Megvii Research
 
