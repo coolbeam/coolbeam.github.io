@@ -32,7 +32,7 @@ My research interest includes computer vision and computer graphics.
 # Publications 
 <!-- **2026** -->
 <!-- ######################################################### -->
-<div class='paper-box'><div class='paper-box-image'><video class='paper-demo-video' controls muted loop playsinline preload='metadata' aria-label='DistScene demonstration video'><source src='collections/2026/distscene-demo.mp4' type='video/mp4'></video></div>
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2026/distscene-demo.gif' alt='DistScene demonstration' width='100%'></div>
 <div class='paper-box-text' markdown='1'>
 
 **DistScene: Object-to-Scene Distillation for 3D Scene Generation**
