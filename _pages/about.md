@@ -32,6 +32,21 @@ My research interest includes computer vision and computer graphics.
 # Publications 
 <!-- **2026** -->
 <!-- ######################################################### -->
+<div class='paper-box'><div class='paper-box-image'><video class='paper-demo-video' controls muted loop playsinline preload='metadata' aria-label='DistScene demonstration video'><source src='collections/2026/distscene-demo.mp4' type='video/mp4'></video></div>
+<div class='paper-box-text' markdown='1'>
+
+**DistScene: Object-to-Scene Distillation for 3D Scene Generation**
+
+*arXiv preprint arXiv:2610.06960, 2026*
+
+**Kunming Luo**, Hongyu Yan, Ken Deng, Chengcheng Zhou, Tianyu Liu, Haipeng Li, Haibin Huang, Xuelong Li, Ping Tan
+
+[Paper](https://arxiv.org/abs/2610.06960) \| [Code](https://coolbeam.github.io/DistScene/) \| [BibTex](collections/2026/distscene.md)
+</div>
+</div>
+
+
+<!-- ######################################################### -->
 
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2026/ctr3d.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -42,7 +57,7 @@ My research interest includes computer vision and computer graphics.
 
 **Kunming Luo**\*, Hongyu Yan\*, Yuan Liu, Zihao Zhang, Manyuan Zhang, Wenping Wang, Ping Tan
 
-[Paper](https://openreview.net/pdf?id=3rJQj0xZJv) \| [Code](https://github.com/HKUST-SAIL/CTR3D) \| BibTex
+[Paper](https://openreview.net/pdf?id=3rJQj0xZJv) \| [Code](https://github.com/HKUST-SAIL/CTR3D) \| [BibTex](collections/2026/ctr3d.md)
 </div>
 </div>
 
@@ -51,13 +66,13 @@ My research interest includes computer vision and computer graphics.
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2026/posemaster.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**PoseMaster: Generating 3D Characters in Arbitrary Poses from a Single Image**
+**PoseMaster: A Unified 3D Native Framework for Stylized Pose Generation**
 
 *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026*
 
-Hongyu Yan\*, **Kunming Luo**\*, Weiyu Li, Yixun Liang, Shengming Li, Jingwei Huang, Chunchao Guo, Ping Tan
+Hongyu Yan\*, **Kunming Luo**\*, Weiyu Li, Kaiyi Zhang, Yixun Liang, Jingwei Huang, Chunchao Guo, Ping Tan
 
-[Paper](https://arxiv.org/abs/2506.21076) \| Code \| BibTex
+[Paper](https://arxiv.org/abs/2506.21076) \| [Code](https://github.com/hanryyan/PoseMaster) \| [BibTex](collections/2026/posemaster.md)
 </div>
 </div>
 
@@ -72,7 +87,7 @@ Hongyu Yan\*, **Kunming Luo**\*, Weiyu Li, Yixun Liang, Shengming Li, Jingwei Hu
 
 Yixun Liang\*, **Kunming Luo**\*, Xiao Chen, Rui Chen, Hongyu Yan, Weiyu Li, Jiarui Liu, Ping Tan
 
-[Paper](https://arxiv.org/abs/2505.23253) \| [Code](https://github.com/lightillusions/UniTEX) \| BibTex
+[Paper](https://arxiv.org/abs/2505.23253) \| [Code](https://github.com/lightillusions/UniTEX) \| [BibTex](collections/2026/unitex.md)
 </div>
 </div>
 
@@ -87,7 +102,7 @@ Yixun Liang\*, **Kunming Luo**\*, Xiao Chen, Rui Chen, Hongyu Yan, Weiyu Li, Jia
 
 Tianyu Liu, Weitao Xiong, **Kunming Luo**, Manyuan Zhang, Peng Li, Yuan Liu, Ping Tan
 
-Paper \| [Code](https://lty2226262.github.io/autoweather4d/) \| BibTex
+Paper \| [Code](https://lty2226262.github.io/autoweather4d/) \| [BibTex](collections/2026/autoweather4d.md)
 </div>
 </div>
 
@@ -181,7 +196,7 @@ Linchao He, Hongyu Yan, Mengting Luo, **Kunming Luo**, Wang Wang, Wenchao Du, Hu
 
 Guangyang Wu\*, Wenyi Wang, **Kunming Luo**\*, Xi Liu, Qingqing Zheng, Shuaicheng Liu, Xinyang Jiang, Guangtao Zhai, Xiaohong Liu
 
-[Paper](collections/2023/accflow.pdf) \| Code \| [BibTex](collections/2023/accflow.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](collections/2023/accflow.pdf) \| [Code](https://github.com/mulns/AccFlow) \| [BibTex](collections/2023/accflow.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -196,7 +211,7 @@ Guangyang Wu\*, Wenyi Wang, **Kunming Luo**\*, Xi Liu, Qingqing Zheng, Shuaichen
 
 Xinglong Luo, **Kunming Luo**, Ao Luo, Zhengning Wang, Ping Tan, Shuaicheng Liu
 
-[Paper](collections/2023/event_flow.pdf) \| Code \| [BibTex](collections/2023/event_flow.md)  <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](collections/2023/event_flow.pdf) \| [Code](https://github.com/boomluo02/ADMFlow) \| [BibTex](collections/2023/event_flow.md)  <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -307,7 +322,7 @@ Shuaicheng Liu, **Kunming Luo**, Ao Luo, Chuan Wang, Fanman Meng, Bing Zeng
 
 Shuaicheng Liu, **Kunming Luo**, Nianjin Ye, Chuan Wang, Jue Wang, Bing Zeng
           
-[Paper](collections/2021/OIFlow.pdf) \| Code \| [BibTex](collections/2021/OIFlow.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](collections/2021/OIFlow.pdf) \| [Code](https://github.com/coolbeam/OIFlow) \| [BibTex](collections/2021/OIFlow.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
